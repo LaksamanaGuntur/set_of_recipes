@@ -8,7 +8,7 @@ Clone from https://github.com/LaksamanaGuntur/set_of_recipes.git
 Open your ide, and then run the app
 
 ## How to test
-Go to 'test' package, right cursor click, and then 'Run tests in widget_test.dart'
+Go to 'test' package, click right cursor, and then 'Run tests in widget_test.dart'
 
 ## Instructions use the app
 - Select date or it would be today date if it not selected
